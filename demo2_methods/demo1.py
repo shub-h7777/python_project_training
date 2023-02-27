@@ -19,14 +19,9 @@ print(area_trapezium)
 
 
 
-print(math.pi)
-print(math.sqrt(4))
-print(volume.volume_of_sphere(1))
+# print(math.pi)
+# print(math.sqrt(4))
+# print(volume.volume_of_sphere(1))
 
-print("Exercise for Feb-17-2023")
 
-print(volume.volume_of_sphere(1))
-print(volume.volume_of_cone(1,1))
-print(volume.volume_of_cylinder(1,1))
-print(volume.volume_of_hemisphere(1))
 

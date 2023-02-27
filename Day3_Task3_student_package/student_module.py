@@ -12,7 +12,7 @@ class Student():
     def get_student_name(self):
         return self.student_name
 
-    @property   #Decorator
+    @property  # Decorator
     def get_name_with_percentage(self):
         return "Hi, " + self.student_name + "- Your Percentage is " + str(self.student_percentage)
 
